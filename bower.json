@@ -1,0 +1,10 @@
+{
+  "name": "compass-powered-bootstrap",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "~3.3.4",
+    "modernizr": "~2.8.3"
+  }
+}
